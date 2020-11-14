@@ -8,7 +8,7 @@ void main() {
   setupLocator();
   runApp(MyApp());
 }
-//deneme
+//ahmet
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
